@@ -1,0 +1,6 @@
+train: ../sugarcane/images/
+val: ../sugarcane/images/
+# number of classes
+nc: 3
+# class names
+names: ['B','R','W']
